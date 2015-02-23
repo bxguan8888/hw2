@@ -1,1 +1,0 @@
-cmd_/OS_class/part3/simple.ko := ld -r -m elf_i386 -T /usr/src/linux-3.10.28-1-lts/scripts/module-common.lds --build-id  -o /OS_class/part3/simple.ko /OS_class/part3/simple.o /OS_class/part3/simple.mod.o
